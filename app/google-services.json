@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836499206243",
+    "firebase_url": "https://dealerapp-adedb.firebaseio.com",
+    "project_id": "dealerapp-adedb",
+    "storage_bucket": "dealerapp-adedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836499206243:android:8078241f2053dc5a754856",
+        "android_client_info": {
+          "package_name": "com.example.dealerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836499206243-8n4vjrau5msl7953sn5qbg4gqs1dfepu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dealerapp",
+            "certificate_hash": "655b14418fa6affef53821442d82e3e556529a8b"
+          }
+        },
+        {
+          "client_id": "836499206243-vcr31gtatlsjknmju1nfcn6867uhh54u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2RgwRU0Kg7gY-m9QKmDIsehTjK_oGms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836499206243-vcr31gtatlsjknmju1nfcn6867uhh54u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

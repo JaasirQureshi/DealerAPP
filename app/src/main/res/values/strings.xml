@@ -1,0 +1,8 @@
+<resources>
+
+
+    <string name="app_name">dealerservice</string>
+    <string name="FACEBOOK_APP_ID">430019724579117</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">[ACCOUNT_KIT_CLIENT_TOKEN]</string>
+
+</resources>
